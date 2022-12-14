@@ -1,2 +1,2 @@
-"Generate a change in README.md"
-"Do a new change"
+1. First test repo on the Complete Ruby on Rails Developer course by
+Sebastian Duran
