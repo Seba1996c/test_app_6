@@ -1,0 +1,2 @@
+class AlphaBlogController < ApplicationController
+end
